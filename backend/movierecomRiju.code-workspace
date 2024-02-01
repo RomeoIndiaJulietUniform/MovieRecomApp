@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "movierecomRiju",
+			"path": ".."
+		},
+		{
+			"name": "movierecomdeploy",
+			"path": "../../movierecomdeploy"
+		}
+	],
+	"settings": {}
+}
